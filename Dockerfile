@@ -9,4 +9,4 @@ EXPOSE 6379
 
 ENTRYPOINT [“/usr/bin/redis-server”]
 
-CMD[]
+CMD []
